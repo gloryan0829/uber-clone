@@ -1,14 +1,13 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "module": "commonjs",
-    "target": "es5",
-    "lib": ["es6","dom","esnext.asynciterable"],
+    "module": "CommonJS",
+    "target": "ES2015",
+    "lib": ["es6", "dom", "esnext.asynciterable"],
     "sourceMap": true,
-    "allowJs": false,
-    "moduleResolution": "node",
+    "allowJs": true,
+    "moduleResolution": "Node",
     "rootDir": "src",
-    "outDir": "dist",
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
@@ -23,12 +22,11 @@
   },
   "exclude": [
     "node_modules",
-    "dist",
     "build",
     "scripts",
-    "acceptance-test",
+    "acceptance-tests",
     "webpack",
     "jest",
-    "src/setupTest.ts"
+    "src/setupTests.ts"
   ]
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"sayHello.resolvers.js","sourceRoot":"","sources":["../../../../src/api/Hello/sayBye/sayHello.resolvers.ts"],"names":[],"mappings":";;AAAA,IAAM,SAAS,GAAG;IAChB,KAAK,EAAE;QACL,QAAQ,EAAE,cAAM,OAAA,UAAU,EAAV,CAAU;KAC3B;CACF,CAAC;AAEF,kBAAe,SAAS,CAAC"}
